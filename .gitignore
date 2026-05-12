@@ -1,0 +1,11 @@
+*.csv
+*.edf
+__pycache__/
+*.py[cod]
+.env
+venv/
+.ipynb_checkpoints/
+*.png
+*.jpg
+.DS_Store
+Thumbs.db
