@@ -10,9 +10,9 @@
 
 ## The Problem
 
-One of the most persistent challenges in clinical care is accurately assessing pain in patients who cannot speak for themselves — individuals on ventilators, patients with late-stage dementia, infants in neonatal units, and those recovering from strokes or traumatic brain injuries.
+One of the most persistent challenges in clinical care is accurately assessing pain in patients who cannot speak for themselves, individuals on ventilators, patients with late-stage dementia, infants in neonatal units, and those recovering from strokes or traumatic brain injuries.
 
-The standard pain scale ("rate your pain from 1 to 10") is completely inaccessible to these patients. Existing alternatives like the Critical Care Pain Observation Tool (CPOT) rely on nurses manually observing facial expressions and body movements — subjective, inconsistent, and unable to run continuously.
+The standard pain scale ("rate your pain from 1 to 10") is completely inaccessible to these patients. Existing alternatives like the Critical Care Pain Observation Tool (CPOT) rely on nurses manually observing facial expressions and body movements, subjective, inconsistent, and unable to run continuously.
 
 **Patients can experience significant pain between check-ins with no way to signal it.**
 
