@@ -1,4 +1,4 @@
-# Neurova — Project Summary
+# Project Summary
 **EEG-Based Pain Detection for Non-Verbal Patients**
 Morgan State University | Fikewa Akindolire | May 2026
 
