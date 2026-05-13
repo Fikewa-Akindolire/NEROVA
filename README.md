@@ -26,6 +26,14 @@ The system requires no patient cooperation. It works passively and continuously.
 
 ---
 
+## Demo
+
+[Watch the full demo here](https://drive.google.com/file/d/18MRMzycNGYu8R8BZ_qm-2_8d_8p9qimQ/view?usp=drive_link)
+
+A live walkthrough of the system from EEG streaming setup to real-time brainwave visualization and pain score generation, including data collected during a pain stimulus experiment.
+
+---
+
 ## The Science
 
 Pain produces measurable and reproducible changes in EEG frequency bands:
