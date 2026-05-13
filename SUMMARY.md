@@ -24,6 +24,13 @@ The hardware is a Muse 2 EEG headset with four electrodes, 256 samples per secon
 
 ---
 
+## Demo
+
+[Watch the full demo here](https://drive.google.com/file/d/18MRMzycNGYu8R8BZ_qm-2_8d_8p9qimQ/view?usp=drive_link)
+
+A live walkthrough of the system from EEG streaming setup to real-time brainwave visualization and pain score generation, including data collected during a pain stimulus experiment.
+
+
 ## Features
 
 - **Live EEG Streaming** Real-time brainwave data streamed from the Muse 2 via Bluetooth at 256 Hz across four channels covering the forehead and ears
